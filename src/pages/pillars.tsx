@@ -30,7 +30,7 @@ export default function Home() {
           <figcaption>Using path</figcaption>
           <Image
             src="/large-file.png"
-            alt="The pillars of creation"
+            alt="Large file"
             height={300}
             width={900}
           ></Image>
@@ -40,7 +40,7 @@ export default function Home() {
           <figcaption>Using path</figcaption>
           <Image
             src="/large-file-one.png"
-            alt="The pillars of creation"
+            alt="Large file one"
             height={300}
             width={900}
           ></Image>
@@ -50,7 +50,7 @@ export default function Home() {
           <figcaption>Using path</figcaption>
           <Image
             src="/large-file-two.png"
-            alt="The pillars of creation"
+            alt="Large File two"
             height={300}
             width={900}
           ></Image>
