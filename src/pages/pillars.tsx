@@ -29,7 +29,16 @@ export default function Home() {
         <figure>
           <figcaption>Using path</figcaption>
           <Image
-            src="/large-file.png"
+            src="/big-images/next.svg"
+            alt="Next logo"
+            height={100}
+          ></Image>
+        </figure>
+
+        <figure>
+          <figcaption>Using path</figcaption>
+          <Image
+            src="/big-images/large-file.png"
             alt="Large file"
             height={300}
             width={900}
@@ -39,7 +48,7 @@ export default function Home() {
         <figure>
           <figcaption>Using path</figcaption>
           <Image
-            src="/large-file-one.png"
+            src="/big-images/large-file-one.png"
             alt="Large file one"
             height={300}
             width={900}
@@ -49,7 +58,7 @@ export default function Home() {
         <figure>
           <figcaption>Using path</figcaption>
           <Image
-            src="/large-file-two.png"
+            src="/big-images/large-file-two.png"
             alt="Large File two"
             height={300}
             width={900}
